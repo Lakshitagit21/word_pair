@@ -1,3 +1,5 @@
+# Word-Pair
+This app will produce dynamic Word-Pair which you can add to and remove from your favorite list.
 # Unit Test
 1. You have to test the WordProvider class
 2. Write a unit test to confirm a new word in generated when the provider is first created
